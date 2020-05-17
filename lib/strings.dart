@@ -1,6 +1,6 @@
-const APP_NAME = "Default App Flutter";
+const APP_NAME = "Default App Admin";
 
-const HOME = "Mapa";
+const HOME = "Dashboard";
 const NOTIFICATIONS = "Notificações";
 const HISTORICO = "Histórico";
 const SETTINGS = "Ajustes";
